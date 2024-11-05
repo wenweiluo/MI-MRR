@@ -4,7 +4,7 @@ An end-to-end hierarchical planning approach for modular reconfigurable robots i
 
 ### Schematic diagram of the research content
 <div align=center>
-<img src="https://private-user-images.githubusercontent.com/59788826/382977264-73f547fa-9f92-4df7-b363-49b70361dd51.jpg">
+<img src="https://private-user-images.githubusercontent.com/59788826/382977264-73f547fa-9f92-4df7-b363-49b70361dd51.jpg"></img>
 </div>
 
 ### Simulation results
