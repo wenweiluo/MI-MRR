@@ -12,7 +12,7 @@ Proposed an end-to-end hierarchical planning approach for modular reconfigurable
 
 ### Schematic diagram of the research content for the hierarchical end-to-end planning approach
 <div align=center>
-<img src="https://private-user-images.githubusercontent.com/59788826/382977264-73f547fa-9f92-4df7-b363-49b70361dd51.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ2MDU0NzQsIm5iZiI6MTczNDYwNTE3NCwicGF0aCI6Ii81OTc4ODgyNi8zODI5NzcyNjQtNzNmNTQ3ZmEtOWY5Mi00ZGY3LWIzNjMtNDliNzAzNjFkZDUxLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE5VDEwNDYxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJlZmViMjA3ZTM2N2I0MDZlMGY1OWE4YzJmYzE5MjAxODEyMjk0MTRkNWI1YTFkMDYxOWFmNTAxNDgzMDMxOWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sAyQsx0OgMzBXZntHOMdpZJb-jrE2iDl7bXUrCb8cRs" width=60%></img>
+<img src="https://github.com/wenweiluo/MI-MRR/blob/main/hierarchical%20planning.jpg" width=60%></img>
 </div>
 
 ### Simulation result under the hierarchical end-to-end planning approach
