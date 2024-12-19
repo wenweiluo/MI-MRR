@@ -4,7 +4,7 @@ Proposed an inner-outer loop reinforcement learning framework for modular robots
 
 ### The framework of the IOLO algorithm
 <div align=center>
-<img src="https://github.com/wenweiluo/MI-MRR/blob/main/algorithm%20framework.jpg" width=40%></img>
+<img src="https://github.com/wenweiluo/MI-MRR/blob/main/algorithm%20framework.jpg" width=60%></img>
 </div>
 
 ### Designed a hierarchical end-to-end planning approach for modular robots to achieve coordinated reconfiguration of multiple modules
