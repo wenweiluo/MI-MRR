@@ -4,7 +4,7 @@ Proposed an inner-outer loop reinforcement learning framework for modular robots
 
 ### The framework of the IOLO algorithm
 <div align=center>
-<img src="https://private-user-images.githubusercontent.com/59788826/382986082-2e24fec8-21a1-4133-9b3b-12dfd2446ed2.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ2MDUyOTQsIm5iZiI6MTczNDYwNDk5NCwicGF0aCI6Ii81OTc4ODgyNi8zODI5ODYwODItMmUyNGZlYzgtMjFhMS00MTMzLTliM2ItMTJkZmQyNDQ2ZWQyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE5VDEwNDMxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxYmFkMjIxMWE5MGZmMTE2NGM0YjVjNTFhM2RkMjI1ZmViMTQ3YzNlZjY0NTFhNGJiNjY2NzI1NjRlMTg1OGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.huIajeGzN6M6XgRFuClG8AsbULEBXi33yN_fyP1pKcs" width=40%></img>
+<img src="https://github.com/wenweiluo/MI-MRR/blob/main/algorithm%20framework.jpg" width=40%></img>
 </div>
 
 ### Designed a hierarchical end-to-end planning approach for modular robots to achieve coordinated reconfiguration of multiple modules
